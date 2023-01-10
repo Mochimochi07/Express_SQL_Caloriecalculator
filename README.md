@@ -10,6 +10,10 @@ I just worked out a little bit for my strength.
 
 I realized the fun in the pain that i gained.
 
+Its just about my past experiences in powerlifting.
+
+It brough back such memories and I was happy that I went through the pain in order to get more gains.
+
 This might be the last server that i can make before i go back to Golang in March.
 
 It was fun learning javascript though because of that i learned how to make things efficiently.
